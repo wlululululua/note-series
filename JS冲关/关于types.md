@@ -1,12 +1,5 @@
 # 关于类型
 有关JavaScript的数据类型的笔记
-- [关于类型](#关于类型)
-  - [简介](#简介)
-  - [类型分类](#类型分类)
-    - [primitive type](#primitive-type)
-    - [Object type](#object-type)
-  - [类型判断](#类型判断)
-    - [typeof操作符](#typeof操作符)
 
 ## 简介
 JavaScript是一种动态类型(dynamic typing)的语言。一个变量可以拥有不同类型的值，在执行期间，才能确定该变量所拥有的值的类型。
